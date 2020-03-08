@@ -1,0 +1,131 @@
+.upl1
+{
+	align-content: right;
+background-color: ;
+padding: 10px;
+border-right: 2px solid black; 
+font-size: 24px;
+}
+.upl2
+{
+	align-content: right;
+background-color: ;
+padding: 10px;
+border-right: 2px solid black; 
+font-size: 24px;
+}
+.upl3
+{
+	align-content: right;
+background-color: ;
+padding: 10px;
+font-size: 24px;
+
+}
+.upr1
+{
+	align-content: right;
+background-color: ;
+padding: 10px;
+border-right: 2px solid black; 
+font-size: 24px;
+}
+.upr3
+{
+	align-content: right;
+background-color: ;
+padding: 10px;
+
+font-size: 24px;
+}
+.upr2
+{
+	align-content: right;
+background-color: ;
+padding-: 10px;
+border-right: 2px solid black; 
+font-size: 24px;
+}
+.upr4
+{
+	align-content: right;
+background-color: ;
+padding: 30px
+border-right: 2px solid black; 
+font-size: 24px;
+}
+.mr4
+{
+	align-content: right;
+background-color:white;
+padding: 15px;
+border-right: 2px solid black; 
+font-size: 24px;
+}
+.mr3
+{
+	align-content: right;
+background-color:white;
+padding: 15px;
+border-right: 2px solid black; 
+font-size: 24px;
+}
+.mr2
+{
+	align-content: right;
+background-color:white;
+padding: 15px;
+border-right: 2px solid black; 
+font-size: 24px;
+}
+body {
+	background-color: yellow;
+	padding: 0px;
+	margin:0px;
+}
+.resg{
+	background-color: white;
+	padding: 40px;
+}
+a:hover{
+background-color: yellow;
+}
+.bar{
+	background-color: white;
+
+
+}
+.bar2{
+	background-color: white;
+	text-align: center;
+	padding-top: 10px;
+	font-size: 30px;
+
+}
+.ml3
+{
+border-right: 2px solid black;
+padding: 10px;
+font-size: 24px;
+
+}
+.search{
+	padding-bottom: 15px;
+	padding-right : 15px;
+}
+.center
+{
+	padding: 20px;
+	border:4px solid yellow;
+	
+}
+.left
+{
+	padding: 10px;
+border:4px solid yellow;
+}
+.right
+{
+	padding: 10px;
+	border: 4px solid yellow;
+}
